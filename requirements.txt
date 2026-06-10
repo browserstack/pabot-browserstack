@@ -1,0 +1,6 @@
+robotframework==6.1.1
+robotframework-seleniumlibrary==6.2.0
+robotframework-pabot
+browserstack-local
+selenium
+browserstack-sdk @ https://sdk-assets.browserstack.com/python/browserstack_sdk-latest.tar.gz
